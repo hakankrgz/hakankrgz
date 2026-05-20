@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakankrgz" alt="hakankrgz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hakannkrgz" target="blank"><img src="https://img.shields.io/twitter/follow/hakannkrgz?logo=twitter&style=for-the-badge" alt="hakannkrgz" /></a> </p>
-
 - 🔭 I’m currently working on [ALL CARE](https://github.com/hakankrgz/all_care.git)
 
 - 📫 How to reach me **hknkrgzhkn@gmail.com**
