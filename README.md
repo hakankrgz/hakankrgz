@@ -1,48 +1,45 @@
 <div align="center">
-██╗  ██╗ █████╗ ██╗  ██╗ █████╗ ███╗   ██╗
-██║  ██║██╔══██╗██║ ██╔╝██╔══██╗████╗  ██║
-███████║███████║█████╔╝ ███████║██╔██╗ ██║
-██╔══██║██╔══██║██╔═██╗ ██╔══██║██║╚██╗██║
-██║  ██║██║  ██║██║  ██╗██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-Software Developer · Flutter · Python · Linux · Generative AI
-</div>
+
+# Hakan Karagöz
+
+**Software Developer**
+
+Python · Flutter · Linux · Generative AI
+
+[![Profile Views](https://komarev.com/ghpvc/?username=hakankrgz&label=views&color=0e75b6&style=flat)](https://github.com/hakankrgz)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hakannkrgz)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakannkrgz)
+&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19774181)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hknkrgzhkn)
 
 ---
 
-### 👋 About Me
+I build mobile apps, backend systems, and tools — with a growing interest in Generative AI.  
+Comfortable on Linux, at home in the terminal.
 
-I'm a software developer based in Turkey with a passion for building clean, scalable mobile and web applications. I enjoy working at the intersection of modern mobile development, robust backend systems, and AI-powered tools.
-
-*   🌱 Always exploring and integrating new technologies, especially in **Generative AI** and **System Architecture**.
-*   🛠️ Passionate about **Linux**, open-source ecosystems, and creating seamless developer experiences.
-*   📫 Reach me at: [hknkrgzhkn@gmail.com](mailto:hknkrgzhkn@gmail.com)
-
-### 💻 Tech Stack
-
-*   **Mobile & Frontend:** Flutter, Dart
-*   **Backend & Languages:** Python
-*   **Infrastructure & Tools:** Linux, Docker, Git, Generative AI Tools
+📫 hknkrgzhkn@gmail.com
 
 ---
 
-### 📊 GitHub Stats
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakankrgz&theme=default&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hakankrgz&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakankrgz&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
-</div>
+---
 
-### 🐍 Contribution Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakankrgz/hakankrgz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakankrgz/hakankrgz/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/hakankrgz/hakankrgz/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakankrgz/hakankrgz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakankrgz/hakankrgz/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hakankrgz/hakankrgz/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
-  <sub>Building things that matter · One commit at a time</sub>
 </div>
