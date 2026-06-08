@@ -2,7 +2,7 @@
 
 # Hakan Karagöz
 
-**Software Developer**
+**Computer Programmer 💻**
 
 Python · Flutter · Linux · Generative AI
 
